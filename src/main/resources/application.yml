@@ -1,0 +1,5 @@
+# Defining explicitly the port 8080 to be the port
+# on which the embedded Tomcat server will run the application
+server:
+  port: 8080
+
